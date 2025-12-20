@@ -1,2 +1,5 @@
 a= "ayush is coder"
 b = "ayush is failure"
+c = "ayush is bihari"
+d = "Sunday is MYday" 
+res  = "ygihuijpkop"
