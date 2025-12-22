@@ -1,6 +1,7 @@
 #CLASSS
 class employee:
-    #magic method
+    #magic method - constructor
+    #it is called automatically when an object is created
     def __init__(self):
         print("attributes are being initialized")
         self.name = "John Jones"
